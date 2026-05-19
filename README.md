@@ -1,16 +1,27 @@
-### This guy is too lazy to leave things... 🤔
+## 👋 Hi
 
-<!--
-**ChenMatsu/ChenMatsu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 Infrastructure thinker  
+⚙️ Building systems with Nomad, Consul, and Traefik  
+🌏 Based in Kagoshima
 
-Here are some ideas to get you started:
+> I like making things work reliably (resilient in system way)
 
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
 
-<!-- ![Portrait](https://i.imgur.com/uUEIoyk.jpeg) -->
+## Tech Stack
+
+- More infra than frontend (not a React guy 😄
+- FastAPI
+- Docker / Nomad / Consul / Traefik
+
+---
+
+## ⚡ Fun facts
+
+- 🎹 everything eventually turns into piano for me
+
+---
+
+## 📫 Contact
+
+- GitHub: you're already here 🙂
