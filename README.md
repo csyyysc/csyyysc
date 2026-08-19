@@ -1,8 +1,8 @@
-## 👋 Hi, here is csyyysc
+## 👋 Cool, damn life
 
 🚀 Infrastructure thinker  
-⚙️ Building systems with Nomad, Consul, and Traefik  (More infra (not a React guy 😄)
 
+⚙️ Building systems with Nomad, Consul, and Traefik  (More infra (not a React guy 😄)
 
 🦌 Based in Kagoshima
 
