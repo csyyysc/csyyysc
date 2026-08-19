@@ -2,7 +2,9 @@
 
 🚀 Infrastructure thinker  
 ⚙️ Building systems with Nomad, Consul, and Traefik  (More infra (not a React guy 😄)
-🌏 Based in Kagoshima
+
+
+🦌 Based in Kagoshima
 
 > I like making things work reliably (resilient in system way)
 
